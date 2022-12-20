@@ -1,0 +1,45 @@
+video,video_id,creator_name,creator_id,video_length,Genre,video_tags,likes,comments,shares,block_tags,timestamp
+Cooking up a storm,23456,John Doe,87654,30,Cooking,"#cooking 
+#foodie #delicious",200,75,20,0,1/1/2022 12:30
+Singing my heart out,34567,"Emma 
+Johnson",76543,60,Music,"#singing #karaoke 
+#music",300,100,30,0,1/1/2022 13:00
+Hiking in the mountains,45678,"James 
+Smith",65432,45,Adventure,"#hiking #nature 
+#outdoors",400,125,40,0,1/1/2022 13:30
+Playing with my pets,56789,Sophie Johnson,54321,90,Pets,"#pets 
+#animals #funny",500,150,50,0,1/1/2022 14:00
+Doing a makeup tutorial,67890,"Laura 
+Smith",43210,15,Beauty,"#makeup #tutorial 
+#beauty",600,175,60,0,1/1/2022 14:30
+Exploring a new city,78901,"Michael 
+Johnson",32109,30,Travel,#travel #explore #city,700,200,70,0,"2022-
+01-01 15:00:00"
+Working out at the gym,89012,"Jessica 
+Smith",21098,50,Fitness,#fitness #gym #workout,800,225,80,0,"2022-
+01-01 15:30:00"
+Trying a new recipe,90123,"Andrew 
+Johnson",10987,20,Cooking,"#cooking #recipe 
+#food",900,250,90,0,1/1/2022 16:00
+Playing a video game,1234,"Emily 
+Smith",9876,180,Gaming,"#gaming #videogames 
+#fun",1000,275,100,0,1/1/2022 16:30
+Doing a DIY project,12345,David Johnson,8765,60,DIY,"#diy 
+#project #handy",1100,300,110,0,1/1/2022 17:00
+Sharing a travel vlog,34567,Emma Johnson,76543,15,Travel,"#travel #vlog 
+#adventure",300,100,30,0,1/1/2022 13:00
+Doing a book review,45678,James Smith,65432,15,Books,"#books #review 
+#reading",400,125,40,0,1/1/2022 13:30
+Sharing a workout routine,56789,"Sophie 
+Johnson",54321,45,Fitness,#fitness #workout #health,500,150,50,0,"2022-01-
+01 14:00:00"
+Doing a hair tutorial,67890,Laura Smith,43210,43,Beauty,"#beauty #hair 
+#tutorial",600,175,60,0,1/1/2022 14:30
+Sharing a recipe video,78901,Michael Johnson,32109,55,Cooking,"#cooking 
+#recipe #food",700,200,70,0,1/1/2022 15:00
+Doing a product review,89012,Jessica Smith,21098,15,"Product 
+Review",#review #product #recommendation,800,225,80,0,1/1/2022 15:30
+Doing a makeup tutorial,90123,Andrew Johnson,10987,115,Beauty,"#beauty 
+#makeup #tutorial",900,250,90,0,1/1/2022 16:00
+Playing a video game,1234,Emily Smith,9876,15,Gaming,"#gaming 
+#videogames #fun",1000,275,100,0,1/1/2022 16:30
